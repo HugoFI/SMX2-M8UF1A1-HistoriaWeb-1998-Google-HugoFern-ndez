@@ -3,4 +3,9 @@
 
 
 
-Google és incorporat oficialment per Larry Page i Sergey Brin, encara que la tecnologia en la qual es basaria el seu nou lloc web hauria estat en desenvolupament durant diversos anys. Google segueix una onada de motors de cerca basats en portals i torna a centrar-se en una cerca senzilla basada en text. El diferenciador clau del seu algorisme és PageRank, que utilitza els enllaços posteriors que rep una pàgina web per determinar la seva força relativa en els rànquings. Iniciat en un garatge, amb el temps, Google creixeria per convertir-se en una de les empreses més grans del món basades en web. 
+Google es incorporado oficialmente por Larry Page y Sergey Brin, aunque la tecnología en la cual se basaría su nuevo sitio web habría estado en desarrollo durante varios años. Google sigue una oleada de motores de busca basados en portales y vuelve a centrarse en una busca sencilla basada en texto. El diferenciador clavo de su algoritmo es PageRank, que utiliza los enlaces posteriores que recibe una página web para determinar su fuerza relativa en los rankings. Iniciado en un garaje, con el tiempo, Google crecería para convertirse en una de las empresas más grandes del mundo basadas en web.
+
+
+
+
+
