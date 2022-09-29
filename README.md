@@ -1,6 +1,10 @@
-# SMX2-M8UF1A1-HistoriaWeb-1998-Google-HugoFernandez
-## **Google**
+# **Google**
 
+## Descripción ##
+
+Google es una compañía estadounidense fundada en septiembre de 1998 cuyo producto principal es un motor de búsqueda. El término suele utilizarse como sinónimo de este buscador, el más usado en el mundo. La característica más destacada de Google como buscador es su facilidad de uso.
+
+## Historia ##
 La web Google fue creada por dos estudiantes de Informática de la Universidad de Stanford, Larry Page y Sergey Brinn, ayudados por su profesor, cuando desarrollaban un buscador de Internet para su tesis doctoral que mejorara el más usado hasta entonces, Altavista. El 17 de septiembre de 1997 lo registraron y un año más tarde fundaron la empresa cuyo nombre se basa en una palabra matemática que designa la cantidad 10 elevado a 100.
 
 Con la aportación de varios inversores la empresa empezó a crecer, incorporando progresivamente numerosos servicios. Algunos no tuvieron éxito y ya no existen pero otros sí y ahí están: Google Noticias, Google Imágenes, Google Maps, Google Earth, Adsense y uno fundamental para las comunicaciones actuales como Gmail. Otros no son de fabricación propia sino que fueron comprados, como YouTube.
