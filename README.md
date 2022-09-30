@@ -1,6 +1,6 @@
 # **Google** 🔍
 
-## Descripción📝##
+## Descripción📝
 
 Google es una compañía estadounidense fundada en septiembre de 1998 cuyo producto principal es un motor de búsqueda. El término suele utilizarse como sinónimo de este buscador, el más usado en el mundo. La característica más destacada de Google como buscador es su facilidad de uso.
 
